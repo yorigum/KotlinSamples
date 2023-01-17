@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../layout/custom_preview.xml" value="0.12447916666666667" />
+        <entry key="../.gradle/caches/transforms-3/fc1dd39c6ae58ee4cd13a87b264b70fb/transformed/core-1.3.1/res/layout/custom_dialog.xml" value="0.14427083333333332" />
+        <entry key="app/src/main/res/drawable/custom_border.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1640625" />
+        <entry key="app/src/main/res/drawable/round_edittext.xml" value="0.172" />
+        <entry key="app/src/main/res/drawable/spinner_style.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/activity_bluetooth.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/activity_network.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/activity_test_api.xml" value="0.2984375" />
+        <entry key="app/src/main/res/layout/dialog_add_object.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_printer_config.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_printer_demo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_printer_info.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_loading_progress.xml" value="0.10729166666666666" />
+        <entry key="app/src/main/res/layout/list_child_object.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/listview_bluetooth_devices.xml" value="0.146875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
