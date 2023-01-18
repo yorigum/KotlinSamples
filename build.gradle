@@ -18,6 +18,5 @@ allprojects {
         flatDir {
             dirs 'libs'
         }
-        google()
     }
 }

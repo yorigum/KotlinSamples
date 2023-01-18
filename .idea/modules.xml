@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DO-Print.iml" filepath="$PROJECT_DIR$/DO-Print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DOPrint/DOPrint.iml" filepath="$PROJECT_DIR$/DOPrint/DOPrint.iml" />
+    </modules>
+  </component>
+</project>
